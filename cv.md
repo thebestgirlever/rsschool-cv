@@ -1,27 +1,27 @@
 Moldabekova Mayya
 Moscow, Russia
 
-PERSONAL INFORMATION 
+### PERSONAL INFORMATION 
 Birth date: March 4th 1999.
 Family status: i have a dog.
 
-SKILLS 
+### SKILLS 
 Frontend: HTML, CSS, Javascript, React.
 Backend: Node.js.
 Other: basic knowledge of Python.
 
-OBJECTIVE 
+### OBJECTIVE 
 Getting practical experience.
 
-EMPLOYMENT 
+### EMPLOYMENT 
 2020 - present
 Geologist geotechnician
 
-EDUCATION 
+### EDUCATION 
 2017-2023 the Lomonosov Moscow State University
 the Faculty of Geology. Master's degree
 
-REFERENCES 
+### REFERENCES 
 Social Networks (code):
 https://github.com/thebestgirlever
 https://codepen.io/thebestgirlever
